@@ -50,6 +50,6 @@ export const bookingHotelSlice = createSlice({
 });
 
 // Action creators are generated for each case reducer function
-export const {} = bookingHotelSlice.actions;
+// export const {} = bookingHotelSlice.actions;
 
 export default bookingHotelSlice.reducer;
